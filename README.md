@@ -1,4 +1,4 @@
-## PROGRAM 1 
+## PROGRAM 1:
 ## AIM: 
 Write a C program to find the ASCII value of a given character 
 ## ALGORITHM: 
@@ -22,7 +22,7 @@ src="https://github.com/user-attachments/assets/deca7b27-78a1-4203-914e-8d3ba6d7
 ## RESULT: 
 Thus the program to find the ASCII value of a given character has been executed 
 successfully. 
-## PROGRAM 2 
+## PROGRAM 2:
 ## AIM: 
 Write a C program to check whether a given number is positive or not. 
 ## ALGORITHM: 
@@ -50,7 +50,7 @@ src="https://github.com/user-attachments/assets/123384be-2c53-45ee-b0fd-5b42111a
 ## RESULT: 
 Thus the program to find whether the giv is positive or not is executed successfully. 
  
-## PROGRAM 3
+## PROGRAM 3:
  
 ## AIM: 
 Write a C program to find whether the given character is the alphabet or not. 
@@ -84,7 +84,7 @@ Thus the program to find whether the given character is alphabet or not is execu
 successfully. 
  
  
-## PROGRAM 4 
+## PROGRAM 4:
  
 ## AIM: 
 Write a C program to check whether the given character is a vowel or not. 
@@ -120,7 +120,7 @@ Thus the C program to check whether the given character is vowel or not is execu
 successfully. 
  
  
-## PROGRAM 5 
+## PROGRAM 5: 
  
  
 ## AIM: 
